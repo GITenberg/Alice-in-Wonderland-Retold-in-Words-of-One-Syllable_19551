@@ -1,0 +1,40 @@
+_repo: Alice-in-Wonderland-Retold-in-Words-of-One-Syllable_19551
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19551-h/images/coverth.jpg
+creator:
+  authors:
+  - agent_name: Gorham, J. C., Mrs.
+    gutenberg_agent_id: '8742'
+    url: http://www.gutenberg.org/2009/agents/8742
+  - agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_issued: '2006-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19551'
+  lccn: '05022611'
+language: en
+publication_note: "A.L. Burt Company\r\nPublishers, New York\r\nCopyright 1905"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+tableOfContents: "CHAPTER I.\r\nDown The Rabbit Hole\r\nCHAPTER II.\r\nThe Pool of\
+  \ Tears\r\nCHAPTER III.\r\nA Race\r\nCHAPTER IV.\r\nThe Rabbit Sends in a Bill\r\
+  \nCHAPTER V.\r\nA Caterpillar Tells Alice what to Do\r\nCHAPTER VI.\r\nPig and Pepper\r\
+  \nCHAPTER VII.\r\nA Mad Tea Party\r\nCHAPTER VIII.\r\nThe Queen's Croquet Ground\r\
+  \nCHAPTER IX.\r\nThe Mock Turtle\r\nCHAPTER X.\r\nThe Lobster Dance\r\nCHAPTER XI.\r\
+  \nWho Stole the Tarts?\r\nCHAPTER XII.\r\nAlice on the Stand"
+title: Alice in Wonderland, Retold in Words of One Syllable
+url: http://www.gutenberg.org/ebooks/19551
